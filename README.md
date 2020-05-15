@@ -20,4 +20,8 @@ Upgraded Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/maste
 Sand Sieving Machine(Gold) <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/sand-sieving-machine-gold.png) | Input: ![img](https://mindustrygame.github.io/wiki/images/item-sand.png) x 10 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/gold.png) x 1 <br/> Power Use: 42 power units/second  |
 Steel Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-smelter.png) | Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1 <br/> Power Use: 75 power units/second  |
 
+## Available Languages ##
+- English
+- 繁體中文
+
 Last Updated: 2020/05/15

@@ -1,4 +1,4 @@
-![alt text](https://github.com/ARiiiiii/Ku-Mod/blob/master/KU-MOD_Icon.png?raw=true)
+![alt text](https://github.com/ARiiiiii/Ku-Mod/blob/master/KU-MOD_title.png?raw=true)
 # Ku-Mod v1.0.0 #
 
 ## New Content ##
@@ -12,6 +12,10 @@ New Walls  | Info  |
 ------------- | ------------- |
 Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall.png) | Health: 850 <br/>Size: 1 x 1 <br/>Description: A wall made of steel. A strong defensive block can deflect some damage. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 6 
 Large Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall-large.png) | Health: 3550 <br/>Size: 2 x 2  <br/>Description: A wall made of steel. A strong defensive block can deflect some damage. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 24
+
+New Conveyor  | Info  |
+------------- | ------------- |
+Steel Conveyor <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/steel-conveyor.gif)| Health: 850 <br/>Size: 1 x 1 <br/>Description: Steel Armored conveyor. High Health and Speed. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-titanium.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-thorium.png) x 1
 
 New Machines  | Input & Output  |
 ------------- | ------------- |

@@ -10,8 +10,8 @@ Gold Ore <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blo
 
 New Walls  | Info  |
 ------------- | ------------- |
-Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall.png) | Health: 850 <br/>Size: 1 x 1 <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 6
-Large Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall-large.png) | Health: 3550 <br/>Size: 2 x 2 <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 24
+Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall.png) | Health: 850 <br/>Size: 1 x 1 <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 6 <br/>Description: A wall made of steel. A strong defensive block can deflect some damage.
+Large Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall-large.png) | Health: 3550 <br/>Size: 2 x 2 <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 24 <br/>Description: A wall made of steel. A strong defensive block can deflect some damage.
 
 New Machines  | Input & Output  |
 ------------- | ------------- |

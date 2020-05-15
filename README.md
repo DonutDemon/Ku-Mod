@@ -15,7 +15,7 @@ Large Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/spr
 
 New Conveyor  | Info  |
 ------------- | ------------- |
-Steel Conveyor <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/steel-conveyor.gif)| Health: 850 <br/>Size: 1 x 1 <br/>Description: Steel Armored conveyor. High Health and Speed. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-titanium.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-thorium.png) x 1
+Steel Conveyor <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/steel-conveyor.gif)| Health: 250 <br/>Size: 1 x 1 <br/>Description: Steel Armored conveyor. High Health and Speed. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-titanium.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-thorium.png) x 1
 
 New Machines  | Input & Output  |
 ------------- | ------------- |

@@ -1,6 +1,6 @@
 type: LaunchPad
 name: Golden Launch Pad
-description: An improved version of the Large Launch Pad. Stores more items. Launches more frequently.
+description: An improved version of a large launch pad. Use less space but store more items at the same time. Start more frequently.
 size: 3
 itemCapacity: 400
 launchTime: 600

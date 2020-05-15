@@ -10,7 +10,7 @@ Gold Ore <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blo
 
 New Walls  | Info  |
 ------------- | ------------- |
-Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall.png) | Health: 850 <br/>Size: 1 x 1 <br/>Description: A wall made of steel. A strong defensive block can deflect some damage. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 6 
+Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall.png) | Health: 850 <br/>Size: 1 x 1 <br/> Description: A wall made of steel. A strong defensive block can deflect some damage. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 6 
 Large Steel Wall <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-wall-large.png) | Health: 3550 <br/>Size: 2 x 2  <br/>Description: A wall made of steel. A strong defensive block can deflect some damage. <br/>Build Cost: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 24
 
 New Conveyor  | Info  |
@@ -19,10 +19,11 @@ Steel Conveyor <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/steel
 
 New Machines  | Input & Output  |
 ------------- | ------------- |
-Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/iron-smelter.png) | Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/hematite.png) x 1   ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 <br/>Power Use: 36 power units/second 
-Upgraded Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/upgraded-iron-smelter.png) | Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/hematite.png) x 2  ![img](https://mindustrygame.github.io/wiki/images/item-coal.png)x 3 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 3 <br/>Power Use: 120 power units/second  |
-Sand Sieving Machine(Gold) <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/sand-sieving-machine-gold.png) | Input: ![img](https://mindustrygame.github.io/wiki/images/item-sand.png) x 10 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/gold.png) x 1 <br/> Power Use: 42 power units/second  |
-Steel Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-smelter.png) | Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1 <br/> Power Use: 75 power units/second  |
+Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/iron-smelter.png) | Size: 2 x 2 <br/> Power Use: 36 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/hematite.png) x 1   ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 
+Upgraded Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/upgraded-iron-smelter.png) | Size: 3 x 3 <br/> Power Use: 120 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/hematite.png) x 2  ![img](https://mindustrygame.github.io/wiki/images/item-coal.png)x 3 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 3  |
+Sand Sieving Machine(Gold) <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/sand-sieving-machine-gold.png) | Size: 2 x 2 <br/> Power Use: 42 power units/second <br/> Input: ![img](https://mindustrygame.github.io/wiki/images/item-sand.png) x 10 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/gold.png) x 1|
+Steel Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-smelter.png) | Size: 2 x 2 <br/> Power Use: 75 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1  |
+Golden Launch Pad <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/golden-launch-pad.png) | Size: 3 x 3 <br/> Power Use: 180 power units/second  |
 
 ## Available Languages ##
 - English

@@ -9,11 +9,11 @@ itemCapacity: 10
 craftTime: 25
 updateEffect: smeltsmoke
 consumes: {
-	power: 1
+	power: 2
   items: {
     items: [
-      hematite/1
-	  coal/2
+      hematite/2
+	  coal/3
     ]
   }
 }
@@ -26,4 +26,4 @@ category: crafting
 research: kiln
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: iron/1
+outputItem: iron/3

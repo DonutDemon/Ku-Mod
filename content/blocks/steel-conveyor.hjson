@@ -1,0 +1,11 @@
+type: Conveyor
+name: Steel conveyor
+description: Steel Armored conveyor. High Health and Speed.
+requirements: [
+  titanium/2
+  steel/1
+  thorium/1
+]
+category: distribution
+speed: 0.16
+research: armored-conveyor

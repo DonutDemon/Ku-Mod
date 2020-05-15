@@ -1,0 +1,5 @@
+type: material
+name: Gold
+description: It can be mined from the gold or get from Sand Sieving Machine.
+hardness: 3
+colour: FFD700

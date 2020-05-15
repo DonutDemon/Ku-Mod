@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Sand Sieving Machine: Gold
+description: Sieve sand to get gold.
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 20
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+		sand/10
+    ]
+  }
+}
+requirements: [
+  lead/50
+  copper/50
+]
+category: crafting
+research: silicon-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gold/1

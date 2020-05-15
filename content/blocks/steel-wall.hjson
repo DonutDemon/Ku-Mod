@@ -1,0 +1,11 @@
+type: DeflectorWall
+name: Steel Wall
+description: A wall made of steel. A strong defensive block can deflect some damage.
+configurable: true
+health: 850
+size: 1
+requirements: [
+  steel/6
+]
+category: defense
+research: copper-wall

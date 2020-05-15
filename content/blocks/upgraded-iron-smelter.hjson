@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Upgraded Iron Smelter
+description: An upgraded version of the Iron Smelter. Employs power to produce iron quickly and efficiently
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 25
+updateEffect: smeltsmoke
+consumes: {
+	power: 1
+  items: {
+    items: [
+      hematite/1
+	  coal/2
+    ]
+  }
+}
+requirements: [
+  lead/30
+  copper/50
+  silicon/30
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: iron/1

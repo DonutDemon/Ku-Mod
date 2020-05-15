@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Iron Smelter
+description: Using coal to smelt hematite to produce iron.
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      hematite/1
+	  coal/2
+    ]
+  }
+}
+requirements: [
+  lead/30
+  copper/50
+  silicon/30
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: iron/1

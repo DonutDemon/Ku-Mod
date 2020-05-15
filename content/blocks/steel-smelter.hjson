@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Steel Smelter
+description: Combines iron and carbon to produce steel.
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 50
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.25
+  items: {
+    items: [
+      iron/1
+	  coal/2
+    ]
+  }
+}
+requirements: [
+  lead/80
+  copper/100
+  thorium/30
+]
+category: crafting
+research: alloy-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: steel/1

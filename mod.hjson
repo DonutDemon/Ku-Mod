@@ -1,0 +1,6 @@
+name: "ku-mod"
+displayName: "Ku-Mod" //what displays in the mod selection menu
+author: "KuARzi"
+description: "[#00afff] New ores[] and[#00afff] Machines.[]"
+version: "1.0"
+minGameVersion: "104.10"

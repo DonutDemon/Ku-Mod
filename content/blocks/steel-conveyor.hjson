@@ -1,4 +1,4 @@
-type: Conveyor
+type: Armored Conveyor
 name: Steel conveyor
 description: Steel Armored conveyor. High Health and Speed.
 requirements: [

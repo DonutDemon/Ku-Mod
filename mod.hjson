@@ -1,7 +1,7 @@
 name: "ku-mod"
 displayName: "Ku-Mod" //what displays in the mod selection menu
 author: "KuARzi"
-description: "[#00afff] New ores[] : Hematite, Iron, Gold, Steel
-			  [#00afff] New Machines.[]: Iron Smelter, Upgraded Iron Smelter, Sand Sieving Machine, Steel Smelter"
+description: "[#00afff] New ores[] and [#00afff] New Machines[]
+	      check more information in gitHub"
 version: "1.0"
 minGameVersion: "104.10"

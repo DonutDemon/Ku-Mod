@@ -25,6 +25,10 @@ Sand Sieving Machine(Gold) <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/
 Steel Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-smelter.png) | Size: 2 x 2 <br/> Power Use: 75 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1  |
 Golden Launch Pad <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/golden-launch-pad.png) | Size: 3 x 3 <br/> Power Use: 180 power units/second <br/>Item Capacity: 400 <br/>Time Between Launches: 10 seconds|
 
+New Turret  | Info  |
+------------- | ------------- |
+Enhanced Arc Turret <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/enhanced-arc-turret.png) | Type: Power Turret <br/> Health: 400 <br/> Size: 1 x 1 <br/> Targets Air: No <br/> Targets Ground: Yes <br/> Power Use: 105 power units/second <br/> Shots: 3 <br/> Shots/Second: 3 <br/> Damage: 21 <br/> Damage per second (DPS): 3 * 3 * 24 = 189
+
 ## Available Languages ##
 - English
 - 繁體中文

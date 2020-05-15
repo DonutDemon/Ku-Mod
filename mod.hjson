@@ -2,7 +2,7 @@ name: "ku-mod"
 displayName: "Ku-Mod" //what displays in the mod selection menu
 author: "KuARzi"
 description: "[#00afff] New ores[] and [#00afff] New Machines.[]
-			   check more information on GitHub
-			   https://github.com/ARiiiiii/Ku-Mod"
+			  check more information on GitHub
+			  <a href='https://github.com/ARiiiiii/Ku-Mod'>Ku_mod</a>"
 version: "1.0"
 minGameVersion: "104.10"

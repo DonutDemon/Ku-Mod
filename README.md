@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ARiiiiii/Ku-Mod/blob/master/KU-MOD_Icon.png?raw=true)
 # Ku-Mod v1.0.0 #
-### New Ores: ###
+#### New Ores: ####
 - Hematite Ore
 ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/environment/hematite1.png)
 ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/environment/hematite2.png)

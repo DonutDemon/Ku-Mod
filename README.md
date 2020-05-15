@@ -23,7 +23,7 @@ Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites
 Upgraded Iron Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/upgraded-iron-smelter.png) | Size: 3 x 3 <br/> Power Use: 120 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/hematite.png) x 2  ![img](https://mindustrygame.github.io/wiki/images/item-coal.png)x 3 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 3  |
 Sand Sieving Machine(Gold) <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/sand-sieving-machine-gold.png) | Size: 2 x 2 <br/> Power Use: 42 power units/second <br/> Input: ![img](https://mindustrygame.github.io/wiki/images/item-sand.png) x 10 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/gold.png) x 1|
 Steel Smelter <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/steel-smelter.png) | Size: 2 x 2 <br/> Power Use: 75 power units/second <br/> Input: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/iron.png) x 1 ![img](https://mindustrygame.github.io/wiki/images/item-coal.png) x 2 <br/>Output: ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/items/steel.png) x 1  |
-Golden Launch Pad <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/golden-launch-pad.png) | Size: 3 x 3 <br/> Power Use: 180 power units/second  |
+Golden Launch Pad <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/sprites/blocks/golden-launch-pad.png) | Size: 3 x 3 <br/> Power Use: 180 power units/second <br/>Item Capacity: 400 <br/>Time Between Launches: 10 seconds|
 
 ## Available Languages ##
 - English

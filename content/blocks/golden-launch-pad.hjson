@@ -1,0 +1,19 @@
+type: LaunchPad
+name: Golden Launch Pad
+description: An improved version of the Large Launch Pad. Stores more items. Launches more frequently.
+size: 3
+itemCapacity: 400
+launchTime: 600
+consumes: {
+  power: 3
+ }
+requirements: [
+  gold/200
+  titanium/250
+  silicon/150
+  plastanium/100
+]
+category: effect
+research: launch-pad-large
+idleSound: respawning
+idleSoundVolume: 0.5

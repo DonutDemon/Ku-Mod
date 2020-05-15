@@ -23,7 +23,7 @@ requirements: [
   thorium/30
 ]
 category: crafting
-research: alloy-smelter
+research: melter
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: steel/1

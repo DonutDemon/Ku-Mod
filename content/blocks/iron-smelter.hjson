@@ -23,7 +23,7 @@ requirements: [
   silicon/30
 ]
 category: crafting
-research: kiln
+research: graphite-press
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: iron/1

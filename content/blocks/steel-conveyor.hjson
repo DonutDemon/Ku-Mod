@@ -1,4 +1,4 @@
-type: Armored Conveyor
+type: ArmoredConveyor
 name: Steel conveyor
 description: Steel Armored conveyor. High Health and Speed.
 requirements: [
@@ -8,4 +8,4 @@ requirements: [
 ]
 category: distribution
 speed: 0.16
-research: armored-conveyor
+research: titanium-conveyor

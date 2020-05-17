@@ -32,5 +32,6 @@ Enhanced Arc Turret <br/> ![img](https://github.com/ARiiiiii/Ku-Mod/blob/master/
 ## Available Languages ##
 - English
 - 繁體中文
+- German
 
 Last Updated: 2020/05/15
